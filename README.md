@@ -30,5 +30,5 @@
 ###### 🔹 Exploring advanced machine learning, cloud computing, and big data analytics.
 ###### 🔹 Interested in AI-driven applications and bridging data science with front-end development.
 
-Connect With Me
+### Connect With Me
 📧 [Email](esther.omouwho@gmail.com) | 🔗 [[LinkedIn](https://www.linkedin.com/in/estheromouwho/)] | 🌍 [Portfolio](https://app.netlify.com/teams/omouwho/overview)
