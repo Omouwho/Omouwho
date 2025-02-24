@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Esther Omouwho Egba
-###### 🚀  Data Scientist | Intern at Dataspin and Research Limited
+###### 🚀 Data Scientist | Intern at Dataspin and Research Limited
 ###### 🎓 Master’s in Data Science | Front-End Developer | Passionate About AI & Analytics
 
 ### About Me
