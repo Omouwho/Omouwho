@@ -31,4 +31,4 @@
 ###### 🔹 Interested in AI-driven applications and bridging data science with front-end development.
 
 Connect With Me
-📧 [Email](coolesty25@yahoo.com) | 🔗 [[LinkedIn](https://www.linkedin.com/in/estheromouwho/)] | 🌍 [Portfolio](https://app.netlify.com/teams/omouwho/overview)
+📧 [Email](esther.omouwho@gmail.com) | 🔗 [[LinkedIn](https://www.linkedin.com/in/estheromouwho/)] | 🌍 [Portfolio](https://app.netlify.com/teams/omouwho/overview)
