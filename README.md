@@ -21,6 +21,11 @@
 ###### 🔹 Goal: Identify manufacturing defects using image classification.
 ###### 🔹 Tech Stack: Python, Keras, Deep Learning (CNN)
 
+###### [Weather App](https://omouwhos-react-weather-app.netlify.app/): Built a weather app that provides real-time weather information based on user input.
+###### 🔹 Goal: Display current weather data using an external API.
+###### 🔹 Tech Stack: JavaScript, HTML, CSS, OpenWeather API
+
+
 ### Learning & Growth
 ###### 🔹 Exploring advanced machine learning, cloud computing, and big data analytics.
 ###### 🔹 Interested in AI-driven applications and bridging data science with front-end development.
