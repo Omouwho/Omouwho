@@ -17,7 +17,7 @@
 ###### 🔹 Goal: Classify human emotions from EEG signals using machine learning.
 ###### 🔹 Tech Stack: Python (Scikit-learn, TensorFlow), EEG signal processing
 
-###### [Casting Defect Detection](https://github.com/omouwho/casting-defect-detection): Developed a deep learning model for detecting defects in metal castings using CNNs.
+###### [Casting Defect Detection](https://github.com/Omouwho/casting-defect-detection): Developed a deep learning model for detecting defects in metal castings using CNNs.
 ###### 🔹 Goal: Identify manufacturing defects using image classification.
 ###### 🔹 Tech Stack: Python, Keras, Deep Learning (CNN)
 
