@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Esther Omouwho Egba
+###### 🚀 Aspiring Data Scientist | Intern at Dataspin and Research Limited
+###### 🎓 Master’s in Data Science | Front-End Developer | Passionate About AI & Analytics
 
-<!--
-**Omouwho/Omouwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+###### 🔍 Currently interning at Dataspin and Research Limited, focusing on data science projects.
+###### 💻 Skilled in Python, SQL, Machine Learning, Data Visualization, and Front-End Development.
+###### 🎯 Eager to collaborate on open-source data science projects and connect with the tech community.
 
-Here are some ideas to get you started:
+### Tech Stack
+###### 💻 Python, SQL, R | Pandas, NumPy, Scikit-learn, TensorFlow | Jupyter, Google Colab, VS Code | Power BI, Tableau
+###### 🌍 HTML, CSS, JavaScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Featured Projects
+###### [Emotion Detection from EEG Signals](https://github.com/omouwho/emotion-detection-eeg): Built a model to classify emotions from EEG data using machine learning.
+###### 🔹 Goal: Classify human emotions from EEG signals using machine learning.
+###### 🔹 Tech Stack: Python (Scikit-learn, TensorFlow), EEG signal processing
+
+###### [Casting Defect Detection](https://github.com/omouwho/casting-defect-detection): Developed a deep learning model for detecting defects in metal castings using CNNs.
+###### 🔹 Goal: Identify manufacturing defects using image classification.
+###### 🔹 Tech Stack: Python, Keras, Deep Learning (CNN)
+
+### Learning & Growth
+###### 🔹 Exploring advanced machine learning, cloud computing, and big data analytics.
+###### 🔹 Interested in AI-driven applications and bridging data science with front-end development.
+
+Connect With Me
+📧 [Email](coolesty25@yahoo.com) | 🔗 [[LinkedIn](https://www.linkedin.com/in/estheromouwho/)] | 🌍 [Portfolio](https://app.netlify.com/teams/omouwho/overview)
